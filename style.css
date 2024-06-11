@@ -10,6 +10,11 @@
     --roboto-mono: 'Roboto Mono', monospace;
 }
 
+*{
+    font-weight: 400;
+}
+
+
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
@@ -27,4 +32,5 @@ body{
 
 .conteudo-titulo{
     text-align: center;
+    margin-top: 88px;
 }
