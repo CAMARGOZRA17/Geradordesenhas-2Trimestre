@@ -34,3 +34,9 @@ body{
     text-align: center;
     margin-top: 88px;
 }
+
+.conteudo-senha{
+    background: var(--fundo-senha);
+    padding: 24px;
+    border-button: 6px solid var(--borda);
+}
